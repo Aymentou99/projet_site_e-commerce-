@@ -1,0 +1,36 @@
+{
+"search" :"探す" ,
+"About us" :"私たちに関しては" ,
+"Home" : "家",
+"Login" :"ログイン",
+"Category":"カテゴリー",
+"It Services":"ITサービス",
+"E-Mail Address":"電子メールアドレス",
+"Remember Me":"私を覚えてますか",
+"Password":"パスワード",
+"Reset Password":"パスワードを再設定する",
+
+"Forgot Your Password?":"パスワードをお忘れですか？",
+"register":"登録",
+"Logout":"ログアウト",
+"My Orders":"私の注文",
+"click here to request another":"別のリクエストするには、ここをクリックしてください",
+
+"Send Password Reset Link":"パスワードリセットリンクを送信する"
+,
+"Products":"製品",
+"edit my profil":"私のプロフィールを編集する",
+
+
+"First Name":"ファーストネーム",
+
+"phone":"電話",
+"last Name":"苗字",
+"country":"国",
+
+"password":"パスワード",
+"Register":"Register",
+"Confirm Password":"パスワードを認証する",
+"cart":"カート",
+"Toggle navigation":"ナビゲーションの切り替え"
+}
